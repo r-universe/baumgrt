@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bootruin"]
 	path = bootruin
 	url = https://github.com/cran/bootruin
-	shallow = true
-	registered = true
 [submodule "finiteruinprob"]
 	path = finiteruinprob
 	url = https://github.com/cran/finiteruinprob
-	shallow = true
-	registered = true
 [submodule "sdprisk"]
 	path = sdprisk
 	url = https://github.com/cran/sdprisk
-	shallow = true
-	registered = true
