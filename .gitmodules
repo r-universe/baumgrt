@@ -4,10 +4,10 @@
 	branch = HEAD
 [submodule "bootruin"]
 	path = bootruin
-	url = https://github.com/cran/bootruin
+	url = https://github.com/baumgrt/bootruin
 [submodule "finiteruinprob"]
 	path = finiteruinprob
-	url = https://github.com/cran/finiteruinprob
+	url = https://github.com/baumgrt/finiteruinprob
 [submodule "sdprisk"]
 	path = sdprisk
-	url = https://github.com/cran/sdprisk
+	url = https://github.com/baumgrt/sdprisk
